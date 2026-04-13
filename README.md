@@ -18,7 +18,7 @@ This project is an interactive Excel dashboard designed to analyze hospital emer
 - Slicers
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📂 Files Included
 - Excel Dashboard (.xlsx)
