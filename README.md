@@ -1,15 +1,15 @@
-# 🏥 Hospital Emergency Room Dashboard
+# 🏥 Hospital Emergency Room Dashboard (Excel)
 
 ## 📊 Overview
-This project is an interactive Excel dashboard built to analyze hospital emergency room data.
+This project is an interactive Excel dashboard designed to analyze hospital emergency room data and provide key insights.
 
-## 🚀 Features
-- Total patients tracking
-- Average wait time analysis
-- Patient satisfaction score
-- Admission vs non-admission
-- Age group insights
-- Department referrals
+## 🚀 Key Insights
+- Total number of patients handled
+- Average waiting time analysis
+- Patient satisfaction score tracking
+- Admission vs non-admission trends
+- Age group distribution
+- Department-wise referrals
 
 ## 🛠 Tools Used
 - Microsoft Excel
@@ -18,11 +18,11 @@ This project is an interactive Excel dashboard built to analyze hospital emergen
 - Slicers
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
-## 📂 Files
+## 📂 Files Included
 - Excel Dashboard (.xlsx)
 - Dashboard Image
 
-## ▶️ Demo
-Coming soon
+## ▶️ How to Use
+Download the Excel file and interact with slicers to explore the dashboard.
